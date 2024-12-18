@@ -1,0 +1,121 @@
+body{
+
+    background-color: rgb(96, 235, 108);
+
+
+
+
+}
+
+img{
+
+    background-color: rgb(96, 235, 108);
+
+
+}
+
+.title{
+
+    text-align: center;
+
+
+
+
+
+}
+
+.title1{
+
+    text-align: center;
+
+
+
+}
+
+.logo{
+    margin-left: 270px;
+    width: 500px;
+    text-align: center;
+
+
+
+
+}
+
+table{
+
+    width: 80% ;
+    margin: 50px auto;
+    text-align: center;
+    
+    tr{
+
+        background-color: white;
+        width: 20%;
+
+
+    }
+
+
+
+
+}
+
+
+.owner{
+
+    text-align: center;
+
+
+
+
+}
+
+.owner_img{
+
+    margin-left: 350px;
+    width: 300px;
+
+
+
+
+
+}
+
+.i_img{
+
+    width: 300px;
+
+
+
+
+
+}
+
+.sgan{
+
+    text-align: end;
+
+
+
+
+}
+
+.sgan_img{
+
+    margin-left: 830px;
+
+
+
+}
+
+
+
+.end{
+
+    text-align: end;
+
+
+
+
+}
